@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(245, 205, 153);
+}
+.logo{
+    size: 10px;
+    height: 150px;
+}
+.marca{
+    text-align: center;
+}
+.menus{
+    background-color: rgb(188, 211, 253);
+    text-align: center;
+    color: green;
+}
+.empresa1{
+    size: 10px;
+    height: 90px;
+    float: left;
+}
+.fondo{
+    background-color: white;
+}
+.fondo2{
+    background-color: rgb(189, 203, 241);
+}
+.barra{
+    background-color: blue;
+}
+.parrafo1{
+    color: blue;
+}
+.parrafo2{
+    color: red;
+}
+.empresa2{
+    size: 10px;
+    height: 80px;
+    float: right;
+}
+.footer{
+    text-align: center;
+}
+.fondo3{
+    background-color: rgb(141, 238, 44);
+    color: blue;
+}
+
+.bloque{
+    background-color: blue;
+    size: 50px;
+}
+.servicio{
+    color: yellow;
+}
